@@ -1,4 +1,6 @@
 # The Rust Programming Language
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkszucs%2Frust.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkszucs%2Frust?ref=badge_shield)
+
 
 This is the main source code repository for [Rust]. It contains the compiler,
 standard library, and documentation.
@@ -240,3 +242,6 @@ BSD-like licenses.
 
 See [LICENSE-APACHE](LICENSE-APACHE), [LICENSE-MIT](LICENSE-MIT), and
 [COPYRIGHT](COPYRIGHT) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkszucs%2Frust.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkszucs%2Frust?ref=badge_large)
